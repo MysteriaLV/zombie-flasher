@@ -1,0 +1,13 @@
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_MONITOR.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/zombie-flasher.dir
+C:/Users/rfadmin/CLionProjects/zombie-flasher/cmake-build-debug/CMakeFiles/edit_cache.dir
